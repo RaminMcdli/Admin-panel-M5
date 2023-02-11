@@ -1,1 +1,4 @@
-# Admin-panel-M5
+Run:
+
+### `npm install`
+### `npm start`
